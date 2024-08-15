@@ -288,7 +288,7 @@ footer{
 
 @media screen and (max-width: 780px){
     section{
-        padding: 2rem 3rem;
+        padding: 2rem 2rem;
     }
 
     .flex-col{
@@ -324,9 +324,15 @@ footer{
     section li a {
         display: none;
     }
+    
     .grid-3{
         grid-template-columns: auto;
         row-gap: 2rem;
+    }
+
+    .grid-4{
+        grid-template-columns: auto auto;
+        column-gap: 0.5rem;
     }
 
     form{
