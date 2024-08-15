@@ -7,4 +7,8 @@ Berisi :
     5. Contact Me
     6. Footer
 
-Proses Pengerjaan baru 20%
+Proses Pengerjaan baru 100%
+Meliputi : Html, Css Responsive
+
+Kekurangan :
+JavaScript -> Membuat tampilan lebih dinamis
