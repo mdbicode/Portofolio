@@ -25,14 +25,11 @@ Desktop :
 
 <h2>Mobile</h2>
 
-<table>
-  <tr>
-    <td><img src="https://github.com/mdbicode/Portofolio/blob/main/assets/images/result_mobile1.png" alt="Mobile 1" width="300"></td>
-    <td><img src="https://github.com/mdbicode/Portofolio/blob/main/assets/images/result_mobile2.png" alt="Mobile 2" width="300"></td>
-    <td><img src="https://github.com/mdbicode/Portofolio/blob/main/assets/images/result_mobile3.png" alt="Mobile 3" width="300"></td>
-  </tr>
-</table>
+<p>
+    <img src="https://github.com/mdbicode/Portofolio/blob/main/assets/images/result_mobile1.png" alt="Mobile 1" width="300">
+    <img src="https://github.com/mdbicode/Portofolio/blob/main/assets/images/result_mobile2.png" alt="Mobile 2" width="300">
+    <img src="https://github.com/mdbicode/Portofolio/blob/main/assets/images/result_mobile3.png" alt="Mobile 3" width="300">
+</p>
 
-[<i class="fab fa-instagram"></i> Instagram](https://www.instagram.com/p/CtNrygVBCNv/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
 
 </center>
