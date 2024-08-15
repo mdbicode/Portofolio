@@ -27,9 +27,9 @@ Desktop :
 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/mdbicode/Portofolio/blob/main/assets/images/result_mobile1.png" alt="Mobile 1" width="300"></td>
-    <td align="center"><img src="https://github.com/mdbicode/Portofolio/blob/main/assets/images/result_mobile2.png" alt="Mobile 2" width="300"></td>
-    <td align="center"><img src="https://github.com/mdbicode/Portofolio/blob/main/assets/images/result_mobile3.png" alt="Mobile 3" width="300"></td>
+    <td><img src="https://github.com/mdbicode/Portofolio/blob/main/assets/images/result_mobile1.png" alt="Mobile 1" width="300"></td>
+    <td><img src="https://github.com/mdbicode/Portofolio/blob/main/assets/images/result_mobile2.png" alt="Mobile 2" width="300"></td>
+    <td><img src="https://github.com/mdbicode/Portofolio/blob/main/assets/images/result_mobile3.png" alt="Mobile 3" width="300"></td>
   </tr>
 </table>
 
